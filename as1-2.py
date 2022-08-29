@@ -1,0 +1,12 @@
+a=int(input("vard kon?"))
+b=int(input("vard kon?"))
+c=int(input("vard kon?"))
+d=int(input("vard kon?"))
+e=int(input("vard kon?"))
+f=int(input("vard kon?"))
+g=int(input("vard kon?"))
+h=int(input("vard kon?"))
+i=int(input("vard kon?"))
+j=int(input('vard kon?'))
+m=(a+b+c+d+e+f+g+h+i+j)/10
+print(m)
