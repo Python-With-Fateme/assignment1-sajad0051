@@ -1,2 +1,2 @@
-a=float(input('daraje ro vard kon?'))*33.8
+a=float(input('daraje ro vard kon?'))*1.8+32
 print(a)
